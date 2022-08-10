@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zeynep</h1>
 <h3 align="center">A girl with magical powers who can hack your day.</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Data Science and Deep Learning**
+- 🌱 I’m currently learning **Data Science, Machine Learning and Deep Learning**
 
 - 👨‍💻 All of my projects are available at [github.com/@zeynepcaglabaykan](github.com/@zeynepcaglabaykan)
 
