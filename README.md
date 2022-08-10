@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/@zeynepcaglabaykan](github.com/@zeynepcaglabaykan)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python, SQL, R**
 
 - 📫 How to reach me **zeynepcaglabaykan@outlook.com**
 
