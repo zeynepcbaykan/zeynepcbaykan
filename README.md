@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zeynep</h1>
 <h3 align="center">A girl with magical powers who can hack your day.</h3>
-<img align="right" alt+"Coding" width+"400" src+"https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+<img align="center" alt+"Coding" width+"400" src+"https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 - 🌱 I’m currently learning **Data Science, Machine Learning and Deep Learning**
 
