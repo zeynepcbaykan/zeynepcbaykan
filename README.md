@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zeynep</h1>
+<h1 align="center">Hi, I'm Zeynep</h1>
 <h3 align="center">A girl with magical powers who can hack your day.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/DjbK_Ns9ee8AAAAC/typing-working.gif">
 
