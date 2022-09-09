@@ -14,5 +14,5 @@
             # Use this username's contribution graph  
             user_name: zeynepcaglabaykan
             # Text on contribution graph 
-            text: hello world
+            text: helloworld
        - uses: jasineri/simple-push-action@v1
