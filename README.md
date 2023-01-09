@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Data Science, Machine Learning and Deep Learning**
 
-- 👨‍💻 All of my projects are available at [github.com/@zeynepcaglabaykan](github.com/@zeynepcaglabaykan)
+- 👨‍💻 All of my projects are available at [github.com/@zeynepcaglabaykan](github.com/zeynepcaglabaykan)
 
 - 💬 Ask me about **Python, SQL, R**
 
