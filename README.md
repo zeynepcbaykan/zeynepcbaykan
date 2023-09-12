@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/zeynepcaglabaykan](github.com/zeynepcaglabaykan)
 
-- 💬 Ask me about **Python, SQL, R**
+- 💬 Ask me about **Python, SQL, R, TensorFlow**
 
 - 📫 How to reach me **zeynepcaglabaykan@outlook.com**
 
